@@ -22,3 +22,6 @@ https://github.com/CoboAr/Internet-Speed-Test-Twitter-Complaint-Bot/assets/14462
 
 <img width="603" alt="Screenshot 2024-01-02 at 2 22 18 AM" src="https://github.com/CoboAr/Internet-Speed-Test-Twitter-Complaint-Bot/assets/144629565/8db71504-d910-4ec8-8db1-485605b82253">
 
+Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
+## Author
+## Arnold Cobo
